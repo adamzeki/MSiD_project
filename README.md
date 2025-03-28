@@ -7,4 +7,4 @@ on your device. It takes three parameters:
 - **output_path** - the path to the output csv file, where the text data will be saved
 - **image_dir_path** - the path to the directory, where all the images will be saved
 
-By default, output_path and image_dir_path will be created in your project directory
+By default, output_path and image_dir_path will be created in your project directory and the input_path will refer to the obesity dataset within the repository
